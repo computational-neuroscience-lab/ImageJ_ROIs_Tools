@@ -1,0 +1,8 @@
+ExportROIs_ImagejPlugin/.idea
+ImportROIs_ImagejPlugin/.idea
+
+ExportROIs_ImagejPlugin/target
+ImportROIs_ImagejPlugin/target
+
+!ExportROIs_ImagejPlugin/target/*.jar
+!ImportROIs_ImagejPlugin/target/*.jar
